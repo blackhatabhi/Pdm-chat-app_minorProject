@@ -17,7 +17,9 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	background: var(--light-color);
+	/* background:url("../assets/pdm.jpeg"); */
+	
+	 background-image: url("pdm.jpg");
 	margin: 20px;
 }
 

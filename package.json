@@ -12,6 +12,10 @@
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.24.0",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.10",
+    "msql": "^1.0.3",
+    "mysql": "^2.18.1",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
